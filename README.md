@@ -43,4 +43,8 @@ This dashboard provides ananalysis of terrorist attacks in Pakistan, examining k
 
 ![The Dashboard](https://github.com/user-attachments/assets/ef36117d-fc33-4898-8b88-661dba5761e5)
 
+# Conclusion:
+   The analysis highlights key patterns in attack locations and methods, allowing for targeted security measures. These insights support proactive strategies, such as bolstering security in high-risk areas and improving threat detection through community partnerships, to effectively combat terrorism.
 
+# Disclaimer:
+ This analysis is based on data provided by my lecturer at Digital World Tech Academy, Ikorodu, as part of a project. The findings presented here may not reflect the current state of terrorism, as the data may not include recent updates.
